@@ -1,0 +1,31 @@
+* {
+    box-sizing: border-box;
+    font-family: "inter" 'Arial Narrow Bold', sans-serif;
+}
+nav {
+    display: flex;
+    align-items: center;
+    background-color: #21222A;
+    height: 90px;
+    padding: 30px 25px;
+  
+
+}
+nav > img {
+    height: 30px;
+    width: 30px;
+    color: #61DAFB;
+}
+nav > h1 {
+    margin-left: 10px;
+    font-size: 22px;
+    font-weight: 700;
+    color: #61DAFB;
+
+}
+nav > h2 {
+    margin-left: auto;
+    color: #DEEBF8;
+    font-weight: 600;
+    font-size: 16px;
+}
